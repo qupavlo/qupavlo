@@ -30,15 +30,12 @@ patient away.
 I work with MIMIC-IV and eICU-CRD under PhysioNet credentialed access. Public repositories hold code and aggregate
 results only, never patient records.
 
-### Path
+### Research path
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/path-dark.svg">
-  <img alt="Path drawn like a metro map from 2013 to 2027: industry roles at ELEKS, SoftServe, Lohika, Euristiq, Nova Digital and WorkFocus; teaching at Lviv Polytechnic since 2020; research from the degrees to the PhD in 2023, the first papers, the visit to IMT Atlantique in 2026 and the planned defense." src="assets/path-light.svg" width="100%">
+  <img alt="Research path drawn like a metro map, 2023 to 2027: the PhD at Lviv Polytechnic, the first papers, two LEA-2026 papers and the planned defense; a state research project, the visit to IMT Atlantique in 2026 and a LaTIM seminar in January 2027." src="assets/path-light.svg" width="100%">
 </picture>
-
-Ten years of building software that holds sensitive data (clinical reports, document redaction, identity
-verification) came before the research question.
 
 ### Publications
 

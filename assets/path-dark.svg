@@ -1,84 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1220 400" width="1220" height="400" role="img" aria-label="Path drawn like a metro map from 2013 to 2027: industry roles at ELEKS, SoftServe, Lohika, Euristiq, Nova Digital and WorkFocus; teaching at Lviv Polytechnic since 2020; research from the B.Sc. and M.Sc. to the PhD in 2023, the first papers, the visit to IMT Atlantique in 2026 and the planned defense.">
-<line x1="150.0" y1="60" x2="150.0" y2="350" stroke="#30363D" stroke-width="1"/>
-<text x="150.0" y="375" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="normal" fill="#9198A1" text-anchor="middle" >2013</text>
-<line x1="219.6" y1="60" x2="219.6" y2="350" stroke="#30363D" stroke-width="1"/>
-<text x="219.6" y="375" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="normal" fill="#9198A1" text-anchor="middle" >2014</text>
-<line x1="289.2" y1="60" x2="289.2" y2="350" stroke="#30363D" stroke-width="1"/>
-<text x="289.2" y="375" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="normal" fill="#9198A1" text-anchor="middle" >2015</text>
-<line x1="358.8" y1="60" x2="358.8" y2="350" stroke="#30363D" stroke-width="1"/>
-<text x="358.8" y="375" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="normal" fill="#9198A1" text-anchor="middle" >2016</text>
-<line x1="428.4" y1="60" x2="428.4" y2="350" stroke="#30363D" stroke-width="1"/>
-<text x="428.4" y="375" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="normal" fill="#9198A1" text-anchor="middle" >2017</text>
-<line x1="498.0" y1="60" x2="498.0" y2="350" stroke="#30363D" stroke-width="1"/>
-<text x="498.0" y="375" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="normal" fill="#9198A1" text-anchor="middle" >2018</text>
-<line x1="567.6" y1="60" x2="567.6" y2="350" stroke="#30363D" stroke-width="1"/>
-<text x="567.6" y="375" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="normal" fill="#9198A1" text-anchor="middle" >2019</text>
-<line x1="637.2" y1="60" x2="637.2" y2="350" stroke="#30363D" stroke-width="1"/>
-<text x="637.2" y="375" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="normal" fill="#9198A1" text-anchor="middle" >2020</text>
-<line x1="706.8" y1="60" x2="706.8" y2="350" stroke="#30363D" stroke-width="1"/>
-<text x="706.8" y="375" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="normal" fill="#9198A1" text-anchor="middle" >2021</text>
-<line x1="776.4" y1="60" x2="776.4" y2="350" stroke="#30363D" stroke-width="1"/>
-<text x="776.4" y="375" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="normal" fill="#9198A1" text-anchor="middle" >2022</text>
-<line x1="845.9" y1="60" x2="845.9" y2="350" stroke="#30363D" stroke-width="1"/>
-<text x="845.9" y="375" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="normal" fill="#9198A1" text-anchor="middle" >2023</text>
-<line x1="915.5" y1="60" x2="915.5" y2="350" stroke="#30363D" stroke-width="1"/>
-<text x="915.5" y="375" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="normal" fill="#9198A1" text-anchor="middle" >2024</text>
-<line x1="985.1" y1="60" x2="985.1" y2="350" stroke="#30363D" stroke-width="1"/>
-<text x="985.1" y="375" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="normal" fill="#9198A1" text-anchor="middle" >2025</text>
-<line x1="1054.7" y1="60" x2="1054.7" y2="350" stroke="#30363D" stroke-width="1"/>
-<text x="1054.7" y="375" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="normal" fill="#9198A1" text-anchor="middle" >2026</text>
-<line x1="1124.3" y1="60" x2="1124.3" y2="350" stroke="#30363D" stroke-width="1"/>
-<text x="1124.3" y="375" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="normal" fill="#9198A1" text-anchor="middle" >2027</text>
-<text x="20" y="115" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="bold" fill="#A5A8FF" text-anchor="start" >Research</text>
-<line x1="191.8" y1="110" x2="560.6" y2="110" stroke="#A5A8FF" stroke-width="7" stroke-linecap="round"/>
-<line x1="560.6" y1="110" x2="894.7" y2="110" stroke="#A5A8FF" stroke-width="2" stroke-dasharray="2 6" opacity="0.6"/>
-<line x1="894.7" y1="110" x2="1159.1" y2="110" stroke="#A5A8FF" stroke-width="7" stroke-linecap="round"/>
-<circle cx="191.8" cy="110" r="8" fill="#0D1117" stroke="#A5A8FF" stroke-width="3"/>
-<text x="191.8" y="76" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="bold" fill="#E6EDF3" text-anchor="middle" >B.Sc.</text>
-<text x="191.8" y="91" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#9198A1" text-anchor="middle" >Computer Engineering</text>
-<circle cx="470.1" cy="110" r="8" fill="#0D1117" stroke="#A5A8FF" stroke-width="3"/>
-<text x="470.1" y="140" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="bold" fill="#E6EDF3" text-anchor="middle" >M.Sc.</text>
-<text x="470.1" y="155" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#9198A1" text-anchor="middle" >System Programming</text>
-<circle cx="894.7" cy="110" r="8" fill="#0D1117" stroke="#A5A8FF" stroke-width="3"/>
-<text x="894.7" y="76" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="bold" fill="#E6EDF3" text-anchor="middle" >PhD</text>
-<text x="894.7" y="91" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#9198A1" text-anchor="middle" >Lviv Polytechnic</text>
-<circle cx="950.3" cy="110" r="8" fill="#0D1117" stroke="#A5A8FF" stroke-width="3"/>
-<text x="950.3" y="140" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="bold" fill="#E6EDF3" text-anchor="middle" >First paper</text>
-<text x="950.3" y="155" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#9198A1" text-anchor="middle" >LLMs and personal data</text>
-<circle cx="1068.6" cy="110" r="8" fill="#0D1117" stroke="#A5A8FF" stroke-width="3"/>
-<text x="1068.6" y="76" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="bold" fill="#E6EDF3" text-anchor="middle" >MCP-HAF</text>
-<text x="1068.6" y="91" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#9198A1" text-anchor="middle" >journal article</text>
-<circle cx="1110.4" cy="110" r="8" fill="#0D1117" stroke="#A5A8FF" stroke-width="3"/>
-<text x="1110.4" y="140" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="bold" fill="#E6EDF3" text-anchor="middle" >IMT Atlantique</text>
-<text x="1110.4" y="155" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#9198A1" text-anchor="middle" >Brest, visiting</text>
-<circle cx="1159.1" cy="110" r="8" fill="#0D1117" stroke="#A5A8FF" stroke-width="3" stroke-dasharray="3 3"/>
-<text x="1159.1" y="76" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="bold" fill="#E6EDF3" text-anchor="middle" >Defense</text>
-<text x="1159.1" y="91" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#9198A1" text-anchor="middle" >planned</text>
-<text x="20" y="210" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="bold" fill="#D29A7E" text-anchor="start" >Teaching</text>
-<line x1="685.9" y1="205" x2="1117.4" y2="205" stroke="#D29A7E" stroke-width="7" stroke-linecap="round"/>
-<circle cx="685.9" cy="205" r="8" fill="#0D1117" stroke="#D29A7E" stroke-width="3"/>
-<text x="685.9" y="171" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="bold" fill="#E6EDF3" text-anchor="middle" >Lecturer</text>
-<text x="685.9" y="186" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#9198A1" text-anchor="middle" >Electronic Computing Machines</text>
-<circle cx="1096.5" cy="205" r="8" fill="#0D1117" stroke="#D29A7E" stroke-width="3"/>
-<text x="1096.5" y="235" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="bold" fill="#E6EDF3" text-anchor="middle" >Senior Lecturer</text>
-<text x="20" y="295" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="bold" fill="#58B6E0" text-anchor="start" >Industry</text>
-<line x1="372.7" y1="290" x2="1117.4" y2="290" stroke="#58B6E0" stroke-width="7" stroke-linecap="round"/>
-<circle cx="372.7" cy="290" r="8" fill="#0D1117" stroke="#58B6E0" stroke-width="3"/>
-<text x="372.7" y="256" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="bold" fill="#E6EDF3" text-anchor="middle" >ELEKS</text>
-<text x="372.7" y="271" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#9198A1" text-anchor="middle" >clinical data</text>
-<circle cx="518.9" cy="290" r="8" fill="#0D1117" stroke="#58B6E0" stroke-width="3"/>
-<text x="518.9" y="320" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="bold" fill="#E6EDF3" text-anchor="middle" >SoftServe</text>
-<text x="518.9" y="335" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#9198A1" text-anchor="middle" >document redaction</text>
-<circle cx="623.2" cy="290" r="8" fill="#0D1117" stroke="#58B6E0" stroke-width="3"/>
-<text x="623.2" y="256" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="bold" fill="#E6EDF3" text-anchor="middle" >Lohika</text>
-<text x="623.2" y="271" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#9198A1" text-anchor="middle" >retail platform</text>
-<circle cx="692.8" cy="290" r="8" fill="#0D1117" stroke="#58B6E0" stroke-width="3"/>
-<text x="692.8" y="320" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="bold" fill="#E6EDF3" text-anchor="middle" >Euristiq</text>
-<text x="692.8" y="335" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#9198A1" text-anchor="middle" >identity verification</text>
-<circle cx="985.1" cy="290" r="8" fill="#0D1117" stroke="#58B6E0" stroke-width="3"/>
-<text x="985.1" y="256" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="bold" fill="#E6EDF3" text-anchor="middle" >Nova Digital</text>
-<text x="985.1" y="271" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#9198A1" text-anchor="middle" >video analytics</text>
-<circle cx="1110.4" cy="290" r="8" fill="#0D1117" stroke="#58B6E0" stroke-width="3"/>
-<text x="1110.4" y="320" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="bold" fill="#E6EDF3" text-anchor="middle" >WorkFocus</text>
-<text x="1110.4" y="335" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#9198A1" text-anchor="middle" >solution architecture</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1220 300" width="1220" height="300" role="img" aria-label="Research path drawn like a metro map, 2023 to 2027: the PhD at Lviv Polytechnic from 2023, the first paper in 2024, the MCP-HAF journal article in 2026, two LEA-2026 papers and the planned defense; a state research project from 2024, the visit to IMT Atlantique in 2026 and a LaTIM seminar in January 2027.">
+<line x1="190.0" y1="45" x2="190.0" y2="255" stroke="#30363D" stroke-width="1"/>
+<text x="190.0" y="280" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="normal" fill="#9198A1" text-anchor="middle" >2023</text>
+<line x1="392.0" y1="45" x2="392.0" y2="255" stroke="#30363D" stroke-width="1"/>
+<text x="392.0" y="280" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="normal" fill="#9198A1" text-anchor="middle" >2024</text>
+<line x1="594.1" y1="45" x2="594.1" y2="255" stroke="#30363D" stroke-width="1"/>
+<text x="594.1" y="280" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="normal" fill="#9198A1" text-anchor="middle" >2025</text>
+<line x1="796.1" y1="45" x2="796.1" y2="255" stroke="#30363D" stroke-width="1"/>
+<text x="796.1" y="280" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="normal" fill="#9198A1" text-anchor="middle" >2026</text>
+<line x1="998.2" y1="45" x2="998.2" y2="255" stroke="#30363D" stroke-width="1"/>
+<text x="998.2" y="280" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="normal" fill="#9198A1" text-anchor="middle" >2027</text>
+<text x="20" y="105" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="bold" fill="#A5A8FF" text-anchor="start" >Research</text>
+<line x1="331.4" y1="100" x2="988.1" y2="100" stroke="#A5A8FF" stroke-width="7" stroke-linecap="round"/>
+<line x1="988.1" y1="100" x2="1099.2" y2="100" stroke="#A5A8FF" stroke-width="3" stroke-dasharray="4 5"/>
+<circle cx="331.4" cy="100" r="8" fill="#0D1117" stroke="#A5A8FF" stroke-width="3"/>
+<text x="331.4" y="66" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="bold" fill="#E6EDF3" text-anchor="middle" >PhD</text>
+<text x="331.4" y="81" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#9198A1" text-anchor="middle" >Lviv Polytechnic</text>
+<circle cx="573.9" cy="100" r="8" fill="#0D1117" stroke="#A5A8FF" stroke-width="3"/>
+<text x="573.9" y="130" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="bold" fill="#E6EDF3" text-anchor="middle" >First paper</text>
+<text x="573.9" y="145" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#9198A1" text-anchor="middle" >Comput. Syst. Netw.</text>
+<circle cx="856.7" cy="100" r="8" fill="#0D1117" stroke="#A5A8FF" stroke-width="3"/>
+<text x="856.7" y="66" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="bold" fill="#E6EDF3" text-anchor="middle" >MCP-HAF</text>
+<text x="856.7" y="81" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#9198A1" text-anchor="middle" >journal article</text>
+<circle cx="973.9" cy="100" r="8" fill="#0D1117" stroke="#A5A8FF" stroke-width="3"/>
+<text x="973.9" y="130" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="bold" fill="#E6EDF3" text-anchor="middle" >LEA-2026</text>
+<text x="973.9" y="145" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#9198A1" text-anchor="middle" >two papers</text>
+<circle cx="1099.2" cy="100" r="8" fill="#0D1117" stroke="#A5A8FF" stroke-width="3" stroke-dasharray="3 3"/>
+<text x="1099.2" y="66" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="bold" fill="#E6EDF3" text-anchor="middle" >Defense</text>
+<text x="1099.2" y="81" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#9198A1" text-anchor="middle" >planned</text>
+<text x="20" y="215" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="bold" fill="#58B6E0" text-anchor="start" >Collaboration</text>
+<line x1="392.0" y1="210" x2="988.1" y2="210" stroke="#58B6E0" stroke-width="7" stroke-linecap="round"/>
+<line x1="988.1" y1="210" x2="1008.3" y2="210" stroke="#58B6E0" stroke-width="3" stroke-dasharray="4 5"/>
+<circle cx="392.0" cy="210" r="8" fill="#0D1117" stroke="#58B6E0" stroke-width="3"/>
+<text x="392.0" y="176" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="bold" fill="#E6EDF3" text-anchor="middle" >State project</text>
+<text x="392.0" y="191" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#9198A1" text-anchor="middle" >No. 0124U002340</text>
+<circle cx="957.8" cy="210" r="8" fill="#0D1117" stroke="#58B6E0" stroke-width="3"/>
+<text x="957.8" y="176" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="bold" fill="#E6EDF3" text-anchor="middle" >IMT Atlantique</text>
+<text x="957.8" y="191" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#9198A1" text-anchor="middle" >visiting, Brest</text>
+<circle cx="1008.3" cy="210" r="8" fill="#0D1117" stroke="#58B6E0" stroke-width="3" stroke-dasharray="3 3"/>
+<text x="1008.3" y="240" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="bold" fill="#E6EDF3" text-anchor="middle" >LaTIM</text>
+<text x="1008.3" y="255" font-family="Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="normal" fill="#9198A1" text-anchor="middle" >seminar, Jan 2027</text>
 </svg>

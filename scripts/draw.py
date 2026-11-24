@@ -124,8 +124,8 @@ def hero(c):
     return "\n".join(P)
 
 
-# ---- path: industry, teaching and research on one time axis -------------------------------------------
-Y0, Y1, X0, X1 = 2013.0, 2027.8, 150, 1180
+# ---- path: research only, on one time axis ------------------------------------------------------------
+Y0, Y1, X0, X1 = 2023.0, 2027.9, 190, 1180
 
 
 def X(year):
@@ -134,56 +134,45 @@ def X(year):
 
 LINES = [
     # (name, colour key, y, segments, stations); station = (year, title, note, label above?, planned?)
-    ("Research", "navy", 110, [(2013.6, 2018.9, "solid"), (2018.9, 2023.7, "gap"), (2023.7, 2027.5, "solid")], [
-        (2013.6, "B.Sc.", "Computer Engineering", True, False),
-        (2017.6, "M.Sc.", "System Programming", False, False),
+    ("Research", "navy", 100, [(2023.7, 2026.95, "solid"), (2026.95, 2027.5, "planned")], [
         (2023.7, "PhD", "Lviv Polytechnic", True, False),
-        (2024.5, "First paper", "LLMs and personal data", False, False),
-        (2026.2, "MCP-HAF", "journal article", True, False),
-        (2026.8, "IMT Atlantique", "Brest, visiting", False, False),
+        (2024.9, "First paper", "Comput. Syst. Netw.", False, False),
+        (2026.3, "MCP-HAF", "journal article", True, False),
+        (2026.88, "LEA-2026", "two papers", False, False),
         (2027.5, "Defense", "planned", True, True),
     ]),
-    ("Teaching", "clay", 205, [(2020.7, 2026.9, "solid")], [
-        (2020.7, "Lecturer", "Electronic Computing Machines", True, False),
-        (2026.6, "Senior Lecturer", "", False, False),
-    ]),
-    ("Industry", "blue", 290, [(2016.2, 2026.9, "solid")], [
-        (2016.2, "ELEKS", "clinical data", True, False),
-        (2018.3, "SoftServe", "document redaction", False, False),
-        (2019.8, "Lohika", "retail platform", True, False),
-        (2020.8, "Euristiq", "identity verification", False, False),
-        (2025.0, "Nova Digital", "video analytics", True, False),
-        (2026.8, "WorkFocus", "solution architecture", False, False),
+    ("Collaboration", "blue", 210, [(2024.0, 2026.95, "solid"), (2026.95, 2027.05, "planned")], [
+        (2024.0, "State project", "No. 0124U002340", True, False),
+        (2026.8, "IMT Atlantique", "visiting, Brest", True, False),
+        (2027.05, "LaTIM", "seminar, Jan 2027", False, True),
     ]),
 ]
 
 
 def path_map(c):
-    W, H = 1220, 400
+    W, H = 1220, 300
     P = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" '
-         f'aria-label="Path drawn like a metro map from 2013 to 2027: industry roles at ELEKS, SoftServe, Lohika, '
-         f'Euristiq, Nova Digital and WorkFocus; teaching at Lviv Polytechnic since 2020; research from the B.Sc. '
-         f'and M.Sc. to the PhD in 2023, the first papers, the visit to IMT Atlantique in 2026 and the planned defense.">']
-    # year axis
-    for yr in range(2013, 2028):
+         f'aria-label="Research path drawn like a metro map, 2023 to 2027: the PhD at Lviv Polytechnic from 2023, '
+         f'the first paper in 2024, the MCP-HAF journal article in 2026, two LEA-2026 papers and the planned defense; '
+         f'a state research project from 2024, the visit to IMT Atlantique in 2026 and a LaTIM seminar in January 2027.">']
+    for yr in range(2023, 2028):
         x = X(yr)
-        P.append(f'<line x1="{x}" y1="60" x2="{x}" y2="350" stroke="{c["grid"]}" stroke-width="1"/>')
-        P.append(text(x, 375, str(yr), 12, c["muted"], anchor="middle"))
+        P.append(f'<line x1="{x}" y1="45" x2="{x}" y2="255" stroke="{c["grid"]}" stroke-width="1"/>')
+        P.append(text(x, 280, str(yr), 12, c["muted"], anchor="middle"))
     for name, key, y, segs, stations in LINES:
         col = c[key]
         P.append(text(20, y + 5, name, 15, col, "bold"))
         for a, b, kind in segs:
-            if kind == "gap":
-                P.append(f'<line x1="{X(a)}" y1="{y}" x2="{X(b)}" y2="{y}" stroke="{col}" stroke-width="2" '
-                         f'stroke-dasharray="2 6" opacity="0.6"/>')
+            if kind == "planned":
+                P.append(f'<line x1="{X(a)}" y1="{y}" x2="{X(b)}" y2="{y}" stroke="{col}" stroke-width="3" '
+                         f'stroke-dasharray="4 5"/>')
             else:
                 P.append(f'<line x1="{X(a)}" y1="{y}" x2="{X(b)}" y2="{y}" stroke="{col}" stroke-width="7" '
                          f'stroke-linecap="round"/>')
         for yr, title, note, above, planned in stations:
             x = X(yr)
-            fill = c["bg"]
             dash = ' stroke-dasharray="3 3"' if planned else ""
-            P.append(f'<circle cx="{x}" cy="{y}" r="8" fill="{fill}" stroke="{col}" stroke-width="3"{dash}/>')
+            P.append(f'<circle cx="{x}" cy="{y}" r="8" fill="{c["bg"]}" stroke="{col}" stroke-width="3"{dash}/>')
             ty = y - 34 if above else y + 30
             P.append(text(x, ty, title, 13, c["text"], "bold", "middle"))
             if note:
