@@ -8,7 +8,7 @@ clinical AI system that measure this risk and refuse what would give the patient
 Computer Engineering and a Senior Lecturer at Lviv Polytechnic National University, Ukraine. In 2026 I was a visiting
 researcher at IMT Atlantique, Lab-STICC (Brest, France), on a French Government NADIYA scholarship.
 
-[ORCID](https://orcid.org/0009-0008-8722-5769) · [LinkedIn](https://www.linkedin.com/in/pavlo-zamroz) · [Lviv Polytechnic](https://lpnu.ua/en)
+[ORCID](https://orcid.org/0009-0008-8722-5769) · [Google Scholar](https://scholar.google.com/citations?user=hFEZbeEAAAAJ) · [LinkedIn](https://www.linkedin.com/in/pavlo-zamroz) · [Lviv Polytechnic](https://lpnu.ua/en)
 
 ### The problem
 
